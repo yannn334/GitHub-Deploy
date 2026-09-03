@@ -44,11 +44,9 @@ Application settings are configured in the **Settings** view. Ensure all credent
 
 ## Troubleshooting Permission Errors (SFTP Deployment)
 
-If the deployment process fails during file upload with the following log entry:
+If the deployment process fails during file upload with the "Permission denied" log entry. Write this commands in SSH to give permissions:
 
 ```text
-Error: Permission denied
 
-Write this commands in SSH to give permissions
 sudo chown -R $USER:$USER /path/to/target/directory
 sudo chmod -R 775 /path/to/target/directory
