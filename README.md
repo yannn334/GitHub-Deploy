@@ -1,5 +1,11 @@
 # GitHub Deploy (Android)
 
+<p align="center">
+  <img width="260" alt="1000015834" src="https://github.com/user-attachments/assets/b6a4612c-f5a4-4403-bbc3-1094c28c82d5" />
+  <img width="260" alt="1000015832" src="https://github.com/user-attachments/assets/9fa4313a-15ff-4c50-b3c7-ac522ecf14e5" />
+</p>
+
+
 GitHub Deploy is a full-featured, native Android application built with Kotlin and Jetpack Compose designed to manage GitHub repositories and automate deployment pipelines directly from a mobile device. The application unifies Git version control operations, GitHub REST API release management, and remote file synchronization over the SFTP protocol into a single mobile interface.
 
 ---
